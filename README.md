@@ -1,6 +1,8 @@
 This is a multi-architecture sample project. 
 
-1. Copy the output file to the test machine
+0. `make build` to create the multi-architecture build
+
+1. Copy the output file to the test machine *postfixed with ppc64le*
 
 2. Copy the File to a directory in the PATH
 
