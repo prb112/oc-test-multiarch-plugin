@@ -1,3 +1,5 @@
+Go see https://github.com/prb112/openshift-demo and the oc_plugin folder
+
 This is a multi-architecture sample project. 
 
 0. `make build` to create the multi-architecture build
